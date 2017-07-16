@@ -60,6 +60,7 @@ export default class TodoApp extends Component {
     this.setState({ count: count });
   }
   rendertodolist=(arr)=>{
+    this.checkboxes();
     return <ul id="ful">{arr.map(this.rendertitle)}</ul>;
   }
   rendertitle=(fdtitle)=>{
