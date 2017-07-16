@@ -19814,6 +19814,7 @@
 	    var _this = _possibleConstructorReturn(this, (TodoApp.__proto__ || Object.getPrototypeOf(TodoApp)).call(this, props));
 
 	    _this.rendertodolist = function (arr) {
+	      _this.checkboxes();
 	      return _react2.default.createElement(
 	        'ul',
 	        { id: 'ful' },
