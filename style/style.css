@@ -1,0 +1,69 @@
+#bl {
+  margin-top:8px;
+  width:100px;
+  float:left;
+  margin-left: 350px;
+}
+#bl:hover {
+  background-color: lightblue;
+}
+#dl {
+  margin-top:8px;
+  width:110px;
+  float:left;
+  margin-right:3px;
+}
+#dl:hover {
+  background-color: #FF3333;
+}
+#bd {
+  height:37px;
+  margin-top: 8px;
+}
+#rp {
+  margin-left:-280px;
+}
+#rp:hover {
+  background-color: #33FF33;
+}
+#ot {
+  height:37px;
+}
+#nt {
+  height:37px;
+}
+#ai {
+  width:100px;
+  float:left;
+  margin-left: 230px;
+}
+#ai:hover {
+  background-color: lightblue;
+}
+#di {
+  width:110px;
+  float:left;
+  margin-right:3px;
+}
+#di:hover {
+  background-color: #FF3333;
+}
+#oi {
+  height:37px;
+}
+#ni {
+  height:37px;
+}
+p {
+  margin-left: 390px;
+  font-size: 200%;
+}
+#ful {
+  float: left;
+}
+#f {
+  color:#33FF33;
+}
+#u {
+  color:#FF3333;
+}
